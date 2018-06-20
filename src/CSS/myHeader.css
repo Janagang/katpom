@@ -1,0 +1,13 @@
+.HeaderStyle {
+    background-color: #4287A7;
+    height: 90px;
+}
+
+
+.webHeading {
+	color:lawngreen;
+    font-family: 'Kavivanar', cursive;
+	text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}

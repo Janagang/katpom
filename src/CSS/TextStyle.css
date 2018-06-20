@@ -1,0 +1,112 @@
+/* 
+font-family: 'Catamaran', sans-serif; 
+font-family: 'Hind Madurai', sans-serif;
+font-family: 'Arima Madurai', cursive;
+font-family: 'Pavanam', sans-serif;
+font-family: 'Mukta Malar', sans-serif;
+font-family: 'Meera Inimai', sans-serif;
+font-family: 'Kavivanar', cursive;
+font-family: 'Coiny', cursive;
+*/
+
+.MyNotesBorder {
+    margin-top: 0px;
+    border-radius: 35px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+
+.LessonMainHeading{
+	color:rgb(7, 0, 0);
+    font-family: 'Mukta Malar', sans-serif;
+	text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.LessonSubHeading{
+    font-family: 'Catamaran', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #363A8F;
+}
+
+.ListHeading{
+    text-align: left;
+    font-family: 'Catamaran', sans-serif; 
+    color: black;
+    font-size: 15px;
+}
+
+.ListItems {
+    text-align: left;
+    font-family: 'Coiny', cursive;
+    color: black;
+    font-size: 25px;
+}
+
+
+
+.Phara {
+	font-family: 'Catamaran', sans-serif;
+    color : black;
+    font-size: 14px;
+}
+
+.Special_One {
+	font-family: 'Catamaran', sans-serif;
+    color : black;
+    font-size: 20px;
+}
+
+.FirstLetter {
+font-weight: bold;
+color: red
+}
+
+.NoBullet {
+    padding: 0;
+    list-style-type: none;
+  }
+
+
+  .ShadowHeading1 {
+    text-shadow: 1px 2px 5px lightblue;
+    font-size: 22px;
+    font-family: 'Coiny', cursive;
+    }
+    
+    .ShadowHeading2 {
+    color:black;
+        text-shadow: 2px 2px 19px #000000;
+        font-size: 20px;
+    }
+    
+    
+    .ShadowHeading3 {
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+        font-size: 40px;
+        font-family: 'Coiny', cursive;
+    }
+    
+    
+    .ShadowHeading4 {
+    color: yellow;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+    
+    
+    .ShadowHeading5 {
+    color: black;
+        text-shadow: 2px 2px 18px #000000;
+    }
+
+    .KeyPoints{
+        font-weight: bold;
+        color: #363A8F;
+        font-style: italic;
+        font-family: 'Kavivanar', cursive;
+    }

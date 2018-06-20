@@ -1,0 +1,59 @@
+.OverlTitleBorder {
+  border-radius: 35px;
+  text-align: center;
+  margin-bottom: 0px;
+  background-color: lightblue;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+.OvelNoteBorder {
+    margin-top: 0px;
+    border-color: red;
+    border-radius: 35px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: lightgray;
+}  
+
+
+  .SquereTitleBorder {
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: lightblue;
+    padding: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .SquireNoteBorder {
+    margin-top: 0px;
+    border-color: red;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: lightgray;
+  }  
+
+
+  .MainKeyPointBorder {
+    background-color:white; 
+    border-style: solid; 
+    border-width: 20px; 
+    border-color: #F6FAF3;
+    padding: 20px;
+  }
+
+
+  .h1 {
+    color:  red;
+  }
+
+

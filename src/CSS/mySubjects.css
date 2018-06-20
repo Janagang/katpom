@@ -1,0 +1,16 @@
+.EnglishHeadingBox {
+    height: 40px;
+    background: rgb(163, 163, 255); /* For browsers that do not support gradients */
+    background: linear-gradient(to left, rgba(0,0,100,0), rgba(0,100,160,1)); /* Standard syntax (must be last) */
+    color: rgb(145, 94, 94);
+    font-family: 'Catamaran', sans-serif; 
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+    padding-top: 7px;
+    font-weight: bold;
+}
+
+
+
+
+
