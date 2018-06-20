@@ -13,7 +13,7 @@ import Lesson2 from './Level1/Lesson2';
 import Lesson3 from './Level1/Lesson3';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 
-{/* English Chapters */}
+{/* English Chapter */}
 
 
 
